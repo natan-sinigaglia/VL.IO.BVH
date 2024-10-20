@@ -1,0 +1,4 @@
+C:\REPO\VL.IO.BVH\csharp\VL.IO.BVH\bin\Debug\net8.0\VL.IO.BVH.deps.json
+C:\REPO\VL.IO.BVH\csharp\VL.IO.BVH\obj\Debug\net8.0\VL.IO.BVH.GeneratedMSBuildEditorConfig.editorconfig
+C:\REPO\VL.IO.BVH\csharp\VL.IO.BVH\obj\Debug\net8.0\VL.IO.BVH.AssemblyInfoInputs.cache
+C:\REPO\VL.IO.BVH\csharp\VL.IO.BVH\obj\Debug\net8.0\VL.IO.BVH.AssemblyInfo.cs

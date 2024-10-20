@@ -1,0 +1,75 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\REPO\\VL.IO.BVH\\csharp\\VL.IO.BVH\\VL.IO.BVH.csproj": {}
+  },
+  "projects": {
+    "C:\\REPO\\VL.IO.BVH\\csharp\\VL.IO.BVH\\VL.IO.BVH.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\REPO\\VL.IO.BVH\\csharp\\VL.IO.BVH\\VL.IO.BVH.csproj",
+        "projectName": "VL.IO.BVH",
+        "projectPath": "C:\\REPO\\VL.IO.BVH\\csharp\\VL.IO.BVH\\VL.IO.BVH.csproj",
+        "packagesPath": "C:\\Users\\Natan\\.nuget\\packages\\",
+        "outputPath": "C:\\REPO\\VL.IO.BVH\\csharp\\VL.IO.BVH\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\REPO\\VL.IO.BVH\\csharp\\VL.IO.BVH\\NuGet.Config",
+          "C:\\Users\\Natan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://teamcity.vvvv.org/guestAuth/app/nuget/v1/FeedService.svc/": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "VL.Core": {
+              "target": "Package",
+              "version": "[2024.6.7-0185-g7d063e105d, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
